@@ -4,7 +4,7 @@ module.exports = {
   },
 
   'AutoRemediateS3-001': {
-    'enabled': false
+    'enabled': true
   },
   
   'AutoRemediateS3-002': {
@@ -36,7 +36,7 @@ module.exports = {
   },
   
   'AutoRemediateS3-009': {
-    'enabled': false
+    'enabled': true
   },
   
   'AutoRemediateS3-010': {
